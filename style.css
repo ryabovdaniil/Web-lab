@@ -1,0 +1,24 @@
+.body{
+	background-image: url(back.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 160%;
+	
+}
+.error{
+	color: red;
+}
+
+.form{
+	font-weight: 500;
+	font-family: cursive;
+}
+
+.overlay{
+	padding: 20px 20px 30px 220px;
+	margin: 150px 500px 0px 500px;
+	background-color: rgb(100%, 100%, 100%, 80%);
+	border-radius: 30px;
+	box-shadow: 0 0 20px 2px;
+}
+
