@@ -1,0 +1,123 @@
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.exe
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csprojAssemblyReference.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.AssemblyInfoInputs.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.AssemblyInfo.cs
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.RazorTargetAssemblyInfo.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\staticwebassets\Farmacy_.StaticWebAssets.Manifest.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\staticwebassets\Farmacy_.StaticWebAssets.xml
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csproj.CopyComplete
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.deps.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.runtimeconfig.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.runtimeconfig.dev.json
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.pdb
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Учеба\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csproj.CoreCompileInputs.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.MvcApplicationPartsAssemblyInfo.cache
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.dll
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.pdb
+D:\Учеба\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.genruntimeconfig.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.exe
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.deps.json
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.runtimeconfig.json
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.runtimeconfig.dev.json
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Farmacy_.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.AssemblyInfo.cs
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\staticwebassets\Farmacy_.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\staticwebassets\Farmacy_.StaticWebAssets.xml
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\scopedcss\bundle\Farmacy_.styles.css
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.csproj.CopyComplete
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.dll
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.pdb
+C:\Users\1\Desktop\3 курс\web\Farmacy_\obj\Debug\netcoreapp3.1\Farmacy_.genruntimeconfig.cache
